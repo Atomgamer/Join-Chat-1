@@ -1,4 +1,4 @@
-5 # Join-Chat-1
+ # Join-Chat-1
 MCPE Plugin - A highly customizable (POKETMINE - No Forks - PLUGIN) that enables you to send a custom message when a player joins the server
 
  # Compatible
